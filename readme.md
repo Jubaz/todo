@@ -39,7 +39,7 @@ php artisan serve
 
 ```
 
-api is running now you can test it with some urls via post man :
+api is running now you can test it via post man :
 
 ### user urls
 
